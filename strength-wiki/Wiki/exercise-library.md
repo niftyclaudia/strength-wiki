@@ -16,9 +16,7 @@ Setup and cues for each exercise in the program, grouped by movement pattern. Eq
 
 **Kettlebell single-leg RDL.** KB in the opposite hand to the standing leg. Hinge forward, back leg extends behind in a straight line with the torso. Hips stay square to the floor. Balance matters more than load.
 
-**Barbell hip thrust.** Upper back (bottom of the shoulder blades) against a sturdy bench, box or couch edge about knee height. Bar over the hip crease with a pad. Feet flat, shins vertical at the top. Chin tucked, eyes forward (Vanes's cue that fixed her neck strain). Drive through the heels, squeeze glutes at the top, ribs down, pause 1s.
-
-**Barbell glute bridge.** The fallback when there's nothing to lean on. Lie on the floor, bar over hip crease (use a pad or towel). Feet flat, shins vertical at the top. Drive hips up, squeeze glutes, ribs down, pause 1s.
+**Barbell glute bridge.** Lie on the floor, bar over hip crease (use a pad or towel). Feet flat, shins vertical at the top. Drive hips up, squeeze glutes, ribs down, pause 1s.
 
 ## Push
 

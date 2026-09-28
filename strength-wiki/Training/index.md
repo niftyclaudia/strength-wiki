@@ -8,8 +8,6 @@ For reference knowledge, see [[Wiki/index|Strength for Runners Wiki]].
 **Goal:** Keep and build muscle through the marathon block without hurting the running
 **Equipment:** Squat rack, barbell + plates, kettlebell, bands
 **Weekly anchor:** Long run every **Saturday**
-**Sessions:** 30 min max, never past RPE 7 (3 reps left)
-**Primary success metric:** Hip thrust 3x10 working weight, tracked in [[benchmarks]]
 
 ---
 
@@ -24,8 +22,6 @@ Phases follow the marathon block: lift the most when mileage is low, then taper 
 | phase-2 | Nov 30, 2026 – Jan 24, 2027 (8 wks) | Build | 2 | Strength: heavier, fewer reps, less volume | Planned |
 | phase-3 | Jan 25 – Mar 7, 2027 (6 wks) | Peak mileage | 2 (shorter) | Maintain: keep intensity, cut sets | Planned |
 | phase-4 | Mar 8 – Mar 21, 2027 (2 wks) | Taper + race | 1 → 0 | Stay sharp: light session(s), nothing heavy race week | Planned |
-
-Each phase runs in 4-week effort waves: easy week → two RPE 7 weeks on the main lifts → deload. Details in [[phases/phase-0#Effort Ramp (Phase 1 onward)]].
 
 Create each phase file when you get to it. Deload weeks should line up with the running plan's cutback weeks.
 
@@ -44,7 +40,7 @@ Create each phase file when you get to it. Deload weeks should line up with the 
 
 | Day | Lifting |
 |---|---|
-| Tue | **Full body A, lower-heavy**: squat, RDL, hip thrust, plus one push and one pull |
+| Tue | **Full body A, lower-heavy**: squat + RDL heavy, plus one push and one pull |
 | Thu *or* Sun | **Full body B, upper-heavy**: press + row heavy, light single-leg, calves, core |
 | Sat | **Long run** |
 
