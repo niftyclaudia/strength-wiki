@@ -30,12 +30,19 @@ Doing endurance and strength training together can blunt strength and muscle gai
 
 | Block | Lifting emphasis | Sessions/wk | Reps / effort |
 |---|---|---|---|
-| Base | Build muscle and strength | 2 (full body) | 6–12 reps, RPE 7–8 |
-| Build | Maximal strength, add power | 2 (full body) | 3–6 reps heavy, low volume; add jumps/swings |
+| Base | Build muscle and strength | 2 (full body) | 6–10 reps, 4+ reps in reserve |
+| Build | Maximal strength, add power | 2 (full body) | 4–6 reps, 4+ in reserve, low volume; add jumps/swings |
 | Peak mileage | Maintain | 2 | Keep the weight on the bar, cut sets |
 | Taper | Stay sharp | 1 → 0 | Light, short; nothing heavy within ~5–7 days of race |
 
 Two full-body sessions a week is enough to keep and build muscle for most people, as long as each muscle group gets trained hard twice.
+
+## Training far from failure
+
+Stopping 4+ reps short of failure keeps sessions short and keeps your legs fresh for running. The research tradeoff:
+- **Strength:** gains are about the same whether or not you go close to failure, as long as the weight keeps creeping up.
+- **Muscle size:** going closer to failure builds somewhat more muscle. Leaving reps in reserve still builds muscle, just more slowly.
+- **What that means here:** 2 × 30 min at a comfortable effort will reliably *keep* muscle through the block, with modest gains. Steady progression (adding small amounts of weight) matters more than how hard any single set feels.
 
 The core idea: **cut volume (sets) before intensity (weight)**. Strength and muscle are kept surprisingly well on low volume as long as the loads stay heavy.
 

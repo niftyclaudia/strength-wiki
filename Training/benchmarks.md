@@ -1,6 +1,6 @@
 # Benchmarks
 
-Working weights and PRs by lift, across phases. Log the RPE 7 working weight at the end of each phase.
+Working weights and PRs by lift, across phases. Log the "4 reps left in the tank" working weight at the end of each phase.
 
 | Lift | Phase 0 start | Phase 1 end | Phase 2 end | Phase 3 end | Best set (date) |
 |---|---|---|---|---|---|
