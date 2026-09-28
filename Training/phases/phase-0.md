@@ -1,3 +1,7 @@
+---
+marathon-hq: strength
+status: active
+---
 # Phase 0: Intro Week
 
 **Dates:** September 28 – October 4, 2026 (1 week, the week before marathon training starts)
@@ -24,6 +28,54 @@ Each 4-week wave follows the pattern Vanes uses (easy → harder → deload), ca
 | 4 | Deload: same weight, 2 sets instead of 3 | 1–2 sets, easy |
 
 Line up week 4 with the running plan's cutback week. Never go past RPE 7. If a rep slows down noticeably, that's the last one.
+
+---
+
+## Schedule
+
+| Weeks | Tue | Thu | Sun |
+|---|---|---|---|
+| 0 | A (lower) | B (upper) | C (full body) |
+
+## Sessions
+
+### Session A — Tuesday, lower
+
+| Exercise | Sets | Reps | Weight | Rest | Notes |
+|---|---|---|---|---|---|
+| Pogo hops | 2 | 15 | BW | 30 s | Plyo block, before lifting |
+| Single-leg pogo hops | 2 | 10/leg | BW | 30 s | |
+| Squat jump | 2 | 5 | BW | 45 s | Land soft, reset each rep |
+| Single-leg balance, eyes closed | 1 | 30 s | BW | | 30 s per leg |
+| Barbell back squat | 3 | 8 | | | A1, pair with calf raise |
+| Single-leg calf raise | 3 | 10/leg | | 90 s after pair | A2, hold KB |
+| Barbell Romanian deadlift | 3 | 10 | | 75 s | Short on time: 2 sets |
+| Barbell hip thrust | 3 | 10 | | 75 s | Primary metric |
+
+### Session B — Thursday, upper + light single-leg
+
+| Exercise | Sets | Reps | Weight | Rest | Notes |
+|---|---|---|---|---|---|
+| A-skips | 2 | 15 m | BW | walk back | Light plyo block |
+| Pogo hops | 2 | 15 | BW | 30 s | |
+| Single-leg balance reach | 1 | 5/leg | BW | | Bodyweight single-leg RDL |
+| Barbell overhead press | 3 | 8 | | | A1 |
+| Barbell bent-over row | 3 | 10 | | 90 s after pair | A2 |
+| Push-up | 3 | 8 | BW | | B1 |
+| Kettlebell single-arm row | 3 | 10/arm | | 60 s after pair | B2 |
+| Side plank | 2 | 25 s | BW | | C1, per side |
+| Band pull-apart | 2 | 15 | band | 45 s after pair | C2 |
+
+### Session C — Sunday, upper-biased full body + core
+
+| Exercise | Sets | Reps | Weight | Rest | Notes |
+|---|---|---|---|---|---|
+| Barbell floor press | 3 | 10 | | | A1, in the rack |
+| Band lat pulldown | 3 | 10 | band | 90 s after pair | A2, or chin-up |
+| Barbell hip thrust | 2 | 12 | | | B1, ~80% of Tuesday's weight; skip if legs are tired |
+| Half-kneeling KB overhead press | 2 | 8/arm | | 60 s after pair | B2 |
+| Band Pallof press | 2 | 10/side | band | | C1 |
+| Kettlebell suitcase carry | 2 | 30 m/side | | 45 s after pair | C2 |
 
 ---
 
