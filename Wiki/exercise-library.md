@@ -50,6 +50,20 @@ Setup and cues for each exercise in the program, grouped by movement pattern. Eq
 
 **KB suitcase carry.** KB in one hand, walk tall without leaning toward the weight.
 
+## Plyometrics & Balance
+
+**Pogo hops.** Small, fast hops off the balls of the feet with stiff ankles and barely bent knees. Think "hot ground". Quiet landings.
+
+**Single-leg pogo hops.** Same as above on one leg. Stand near the rack for a hand if needed.
+
+**Squat jump.** Quarter squat, jump straight up, land softly with knees over toes, stand up, reset. Quality over speed.
+
+**A-skips.** Skip forward and drive one knee up to hip height each step. Tall posture, quick ground contact under the hips.
+
+**Single-leg balance, eyes closed.** Stand on one foot, slight knee bend, close your eyes. Put a foot down if you need to, then reset.
+
+**Single-leg balance reach.** A bodyweight single-leg RDL: hinge forward with the back leg long and reach toward the floor. Slow, 5 per leg.
+
 ## Calves
 
 **Single-leg calf raise.** Stand on a plate or step edge, hold the rack for balance and a KB in the other hand. Full range: deep stretch at the bottom, pause at the top.

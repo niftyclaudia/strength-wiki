@@ -30,7 +30,17 @@ Line up week 4 with the running plan's cutback week. Never go past RPE 7. If a r
 ## Program
 
 ### Day 1 — Tuesday Sep 29: Lower (squat + hinge + hip thrust) · ~30 min
-Warm-up (5 min): dead bug 1x6/side → band lateral walk 1x10 each way → glute bridge 1x10 → empty-bar squats 2x5
+Warm-up (3 min): dead bug 1x6/side → band lateral walk 1x10 each way → bodyweight squat 1x10
+
+**Plyo + balance block (5 min, ~60 ground contacts):** do this while fresh, before any lifting. Quiet, springy landings. Stop a set if landings get loud or heavy.
+| Drill | Sets x Reps | Rest |
+|---|---|---|
+| P1. Pogo hops (stiff ankles, quick contacts) | 2x15 | 30s |
+| P2. Single-leg pogo hops | 2x10/leg | 30s |
+| P3. Squat jump (land soft, reset each rep) | 2x5 | 45s |
+| P4. Single-leg balance, eyes closed | 1x30s/leg | — |
+
+Then 2 empty-bar squat sets of 5 and start lifting.
 
 | Exercise | Sets x Reps | Rest |
 |---|---|---|
@@ -39,10 +49,17 @@ Warm-up (5 min): dead bug 1x6/side → band lateral walk 1x10 each way → glute
 | B1. Barbell Romanian deadlift | 3x10 | 75s |
 | C1. **Barbell hip thrust** (upper back on a sturdy bench, box or couch edge) | 3x10 | 75s |
 
-*Order saves plate changes: squat in the rack → take the bar off at mid-thigh for RDLs → load up for hip thrusts on the floor. No bench or box? Do a barbell glute bridge on the floor instead and note it in the log.*
+*Short on time? Drop RDL to 2 sets.* Order saves plate changes: squat in the rack → take the bar off at mid-thigh for RDLs → load up for hip thrusts on the floor. No bench or box? Do a barbell glute bridge on the floor instead and note it in the log.*
 
 ### Day 2 — Thursday Oct 1: Upper + light single-leg · ~30 min
-Warm-up (4 min): band pull-apart 1x15 → band dislocates 1x10 → bodyweight single-leg RDL 1x5/leg (balance) → empty-bar press 1x5
+Warm-up (3 min): band pull-apart 1x15 → band dislocates 1x10 → empty-bar press 1x5
+
+**Light plyo + balance block (4 min, ~40 ground contacts):** low-intensity only, because it's 2 days before the long run.
+| Drill | Sets x Reps | Rest |
+|---|---|---|
+| P1. A-skips | 2x15 m | walk back |
+| P2. Pogo hops | 2x15 | 30s |
+| P3. Single-leg balance reach (bodyweight single-leg RDL) | 1x5/leg | — |
 
 | Exercise | Sets x Reps | Rest after pair |
 |---|---|---|
@@ -53,7 +70,7 @@ Warm-up (4 min): band pull-apart 1x15 → band dislocates 1x10 → bodyweight si
 | C1. Side plank | 2x25s/side | |
 | C2. Band pull-apart | 2x15 | 45s |
 
-*Two days before the long run: the only leg work is the bodyweight balance drill in the warm-up.*
+*Two days before the long run: the only leg work is the light plyo/balance block. Short on time? Skip the C pair.*
 
 ### Day 3 — Sunday Oct 4: Upper-biased full body + core (day after long run) · ~30 min
 Warm-up (4 min): easy walk → cat-cow 1x8 → glute bridge 1x10 → band pull-apart 1x10
@@ -82,6 +99,14 @@ Cool-down (3 min): couch stretch, calf stretch against wall
 3. **Never past RPE 7 (3 reps left).** If you're sore enough that it changes your running stride, the weight was too heavy.
 4. **If a run and a lift conflict, the run wins** (except the Tuesday squat day, which is worth protecting).
 
+## Plyo Progression (for Phase 1+)
+
+See [[Wiki/plyometrics-and-balance]]. Build contacts gradually and add harder drills one at a time:
+- **Base (Phase 1):** 60 → 80–100 contacts on Tue. Add forward single-leg hops, lateral hops, then box jumps.
+- **Build (Phase 2):** hold ~80–100 contacts; add bounding and low drop jumps.
+- **Peak (Phase 3):** cut to ~40 contacts, keep the drills you know.
+- **Taper (Phase 4):** pogos only, or none.
+
 ## Progression (for Phase 1)
 
 When every set of a lift hits the top of its rep range with reps to spare for its target RPE, add a small amount of weight next session:
@@ -100,6 +125,7 @@ When every set of a lift hits the top of its rep range with reps to spare for it
 **Day 1 — Tue 9/29 — Lower**
 | Exercise | Weight | Reps | Notes |
 |---|---|---|---|
+| Plyo block (pogos, SL pogos, squat jumps, balance) | BW | | landings quiet? |
 | Back squat | | | |
 | Single-leg calf raise | | | |
 | Romanian deadlift | | | |
@@ -108,6 +134,7 @@ When every set of a lift hits the top of its rep range with reps to spare for it
 **Day 2 — Thu 10/1 — Upper**
 | Exercise | Weight | Reps | Notes |
 |---|---|---|---|
+| Light plyo block (A-skips, pogos, balance reach) | BW | | |
 | Overhead press | | | |
 | Bent-over row | | | |
 | Push-up | BW | | |
