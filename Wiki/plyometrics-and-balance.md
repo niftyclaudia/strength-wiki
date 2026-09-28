@@ -45,7 +45,7 @@ Rules: do plyos fresh (right after the warm-up, before lifting), stop a set when
 
 - Llanos-Lagos C, et al. (2024). Effect of Strength Training Programs in Middle- and Long-Distance Runners' Economy at Different Running Speeds. *Sports Medicine*. https://link.springer.com/article/10.1007/s40279-023-01978-y
 - Eihara Y, et al. (2022). Heavy Resistance Training Versus Plyometric Training for Improving Running Economy and Running Time Trial Performance. *Sports Medicine – Open*. https://pmc.ncbi.nlm.nih.gov/articles/PMC9653533/
-- Wu H, et al. (2024). Do Exercise-Based Prevention Programs Reduce Injury in Endurance Runners? *Sports Medicine*. https://pmc.ncbi.nlm.nih.gov/articles/PMC11127851/
+- Wu, et al. (2024). Do Exercise-Based Prevention Programs Reduce Injury in Endurance Runners? *Sports Medicine*. https://pmc.ncbi.nlm.nih.gov/articles/PMC11127851/
 - Sato K, Mokha M (2009). Does Core Strength Training Influence Running Kinetics, Lower-Extremity Stability, and 5000-m Performance in Runners? *JSCR*.
 - Core training and performance: a systematic review with meta-analysis (2023). https://pubmed.ncbi.nlm.nih.gov/37867742/
 
