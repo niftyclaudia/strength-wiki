@@ -6,7 +6,9 @@ status: active
 
 **Dates:** September 28 – October 4, 2026 (1 week, the week before marathon training starts)
 **Goal:** Learn the program, find starting weights, and see how lifting feels around the Saturday long run
-**Structure:** 3 days: Tue lower, Thu upper, Sun upper-biased full body
+**Structure:** 3 days this week: Wed lower, Thu upper, Sun upper-biased full body
+
+**One-time change (Sep 29):** Tuesday is the planned 2-mile fast baseline run, with no strength. Session A moves to Wednesday Sep 30 at the existing intro-week RPE 5–6. The dated overrides in [[Training/plan#Changes]] control Marathon HQ; the usual Tuesday rule remains for future weeks. Results and recovery are not yet known.
 **Session length:** 30 min max, including warm-up
 **Effort:** This is week 1 of the effort ramp (see below), so it's the easy week. Finish every set with **4+ reps left** (RPE 5–6).
 **Primary success metric:** Hip thrust 3x10 working weight. It's the one number that shows whether you're building (same metric Vanes uses).
@@ -39,7 +41,7 @@ Line up week 4 with the running plan's cutback week. Never go past RPE 7. If a r
 
 ## Sessions
 
-### Session A — Tuesday, lower
+### Session A — Wednesday Sep 30, lower (this week only)
 
 | Exercise | Sets | Reps | Weight | Rest | Notes |
 |---|---|---|---|---|---|
@@ -72,7 +74,7 @@ Line up week 4 with the running plan's cutback week. Never go past RPE 7. If a r
 |---|---|---|---|---|---|
 | Barbell floor press | 3 | 10 | | | A1, in the rack |
 | Band lat pulldown | 3 | 10 | band | 90 s after pair | A2, or chin-up |
-| Barbell hip thrust | 2 | 12 | | | B1, ~80% of Tuesday's weight; skip if legs are tired |
+| Barbell hip thrust | 2 | 12 | | | B1, ~80% of Session A's weight; skip if legs are tired |
 | Half-kneeling KB overhead press | 2 | 8/arm | | 60 s after pair | B2 |
 | Band Pallof press | 2 | 10/side | band | | C1 |
 | Kettlebell suitcase carry | 2 | 30 m/side | | 45 s after pair | C2 |
@@ -81,7 +83,7 @@ Line up week 4 with the running plan's cutback week. Never go past RPE 7. If a r
 
 ## Program
 
-### Day 1 — Tuesday Sep 29: Lower (squat + hinge + hip thrust) · ~30 min
+### Day 1 — Wednesday Sep 30: Lower (squat + hinge + hip thrust) · ~30 min
 Warm-up (3 min): dead bug 1x6/side → band lateral walk 1x10 each way → bodyweight squat 1x10
 
 **Plyo + balance block (5 min, ~60 ground contacts):** do this while fresh, before any lifting. Quiet, springy landings. Stop a set if landings get loud or heavy.
@@ -131,7 +133,7 @@ Warm-up (4 min): easy walk → cat-cow 1x8 → glute bridge 1x10 → band pull-a
 |---|---|---|
 | A1. Barbell floor press (in the rack) | 3x10 | |
 | A2. Band lat pulldown (band anchored high) *or* chin-up if rack has a bar | 3x10 | 90s |
-| B1. Barbell hip thrust, light (~80% of Tuesday's weight) | 2x12 | |
+| B1. Barbell hip thrust, light (~80% of Session A's weight) | 2x12 | |
 | B2. Half-kneeling KB overhead press | 2x8/arm | 60s |
 | C1. Band Pallof press | 2x10/side | |
 | C2. Kettlebell suitcase carry | 2x30 m/side | 45s |
@@ -146,7 +148,7 @@ Cool-down (3 min): couch stretch, calf stretch against wall
 
 ## Rules Around Running
 
-1. **Heavy legs stay far from the long run.** Tuesday is the lower day. Nothing loaded for legs Thu–Sat.
+1. **Heavy legs stay far from the long run.** Tuesday is the usual lower day; this intro week has a one-time move to Wednesday Sep 30. Nothing loaded for legs Thu–Sat.
 2. **Same-day run + lift:** run first, lift later. Space them 6+ hours apart if possible.
 3. **Never past RPE 7 (3 reps left).** If you're sore enough that it changes your running stride, the weight was too heavy.
 4. **If a run and a lift conflict, the run wins** (except the Tuesday squat day, which is worth protecting).
@@ -174,7 +176,7 @@ When every set of a lift hits the top of its rep range with reps to spare for it
 
 **Saturday long run (9/26, before this phase):** _distance / pace / how legs felt_
 
-**Day 1 — Tue 9/29 — Lower**
+**Day 1 — Wed 9/30 — Lower (planned; moved from Tue)**
 | Exercise | Weight | Reps | Notes |
 |---|---|---|---|
 | Plyo block (pogos, SL pogos, squat jumps, balance) | BW | | landings quiet? |
@@ -205,6 +207,19 @@ When every set of a lift hits the top of its rep range with reps to spare for it
 | Half-kneeling KB press | | | |
 | Pallof press | band | | |
 | Suitcase carry | | | |
+
+**Wed Sep 30 — Session A (lower)**
+
+| Exercise | Weight | Reps | Notes |
+|---|---|---|---|
+| Pogo hops | BW | 15/15 |  |
+| Single-leg pogo hops | BW | 10/10 per leg |  |
+| Squat jump | BW | 8/8 |  |
+| Single-leg balance, eyes closed | BW | 30s |  |
+| Barbell back squat | 85 | 10/10/10 |  |
+| Single-leg calf raise | BW | 10/10/10 per leg |  |
+| Barbell Romanian deadlift | 85 | 10/10/10 |  |
+| Barbell hip thrust | 85/155/155 | 10/10/10 |  |
 
 ---
 
