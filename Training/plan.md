@@ -41,3 +41,5 @@ Day cells take miles (`4` or `2–4`), `easy`, `rest`, `shakeout` or `race`. Add
 
 | Date | Session | Type | Miles | Lift | Rehab |
 |---|---|---|---|---|---|
+| 2026-10-01 | Easy · 4–5M | easy | 4–5 |  |  |
+| 2026-10-03 | Long run · 9M | long | 9 |  |  |
