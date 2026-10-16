@@ -125,8 +125,8 @@ No lift. Tue Oct 6 was the Marshes workout only.
 
 | Exercise | Weight | Reps | Notes |
 |---|---|---|---|
-| Barbell overhead press | 30 |  | 30 lb mini barbell. Reps not recorded |
-| Barbell bent-over row | 35 |  | Women's bar, no plates. Reps not recorded |
+| Barbell overhead press | 30 | 8/8/8 | 30 lb mini barbell |
+| Barbell bent-over row | 35 | 10/10/10 | Women's bar, no plates |
 | Push-up | BW | 2/2/2 | Start at the bottom, fast up, slow down |
 | Single-arm dumbbell row | 17.5 | 10/10/10 per arm | Last two reps of the last set were hard |
 | Plank | BW | 90 s |  |
