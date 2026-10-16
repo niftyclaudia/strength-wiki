@@ -52,9 +52,9 @@ Warm-up (3 min): dead bug 1x6/side → band lateral walk 1x10 each way → bodyw
 | Barbell back squat | 3 | 8–10 | 85 lb | | A1. 95 was too heavy on Oct 13; try 90 before 95 |
 | Single-leg calf raise | 3 | 10/leg | 5 lb | 90 s after pair | A2 |
 | Barbell Romanian deadlift | 3 | 8–10 | 85 lb | | B1 |
-| Push-up | 2 | 8 | BW | 75 s after pair | B2 |
+| Push-up | 2 | 2–4 | BW | 75 s after pair | B2. Start at the bottom, push up fast, lower slowly. Add a rep when 3 x 2 feels easy |
 | Barbell hip thrust | 3 | 8–10 | 145 lb | | C1. Primary metric. One lighter ramp set first (95) |
-| Kettlebell single-arm row | 2 | 10/arm | Light | 75 s after pair | C2 |
+| Single-arm dumbbell row | 2 | 10/arm | 17.5 lb | 75 s after pair | C2 |
 
 *Short on time? Drop the RDL and push-up to 2 sets. Never cut the hip thrust.*
 
@@ -68,10 +68,10 @@ Warm-up (3 min): band pull-apart 1x15 → band dislocates 1x10 → empty-bar pre
 |---|---|---|---|---|---|
 | A-skips | 2 | 15 m | BW | walk back | Light plyo block |
 | Pogo hops | 2 | 15 | BW | 30 s | |
-| Barbell overhead press | 3 | 8 | Light | | A1. Find the weight with 4 reps left and log it |
-| Barbell bent-over row | 3 | 10 | Light | 90 s after pair | A2. Same |
-| Push-up | 3 | 8 | BW | | B1 |
-| Kettlebell single-arm row | 3 | 10/arm | Light | 60 s after pair | B2 |
+| Barbell overhead press | 3 | 8 | 30 lb | | A1. 30 lb fixed mini barbell |
+| Barbell bent-over row | 3 | 10 | 35 lb | 90 s after pair | A2. Women's bar (15 kg), no plates yet |
+| Push-up | 3 | 2–4 | BW | | B1. Start at the bottom, push up fast, lower slowly |
+| Single-arm dumbbell row | 3 | 10/arm | 17.5 lb | 60 s after pair | B2. Stay here until all 3 sets feel even |
 | Plank | 1 | 90 s | BW | | C1 |
 | Side plank | 2 | 45 s | BW | 45 s after pair | C2, per side |
 
@@ -119,7 +119,20 @@ No lift. Tue Oct 6 was the Marshes workout only.
 
 **Wed Oct 14:** easy 3 miles.
 
-**Thu Oct 15:** 6 miles (planned 4); legs sore. Session B with no plyos.
+**Thu Oct 15:** 6 miles (planned 4); legs sore.
+
+**Thu Oct 15 — Session B (upper)**
+
+| Exercise | Weight | Reps | Notes |
+|---|---|---|---|
+| Barbell overhead press | 30 |  | 30 lb mini barbell. Reps not recorded |
+| Barbell bent-over row | 35 |  | Women's bar, no plates. Reps not recorded |
+| Push-up | BW | 2/2/2 | Start at the bottom, fast up, slow down |
+| Single-arm dumbbell row | 17.5 | 10/10/10 per arm | Last two reps of the last set were hard |
+| Plank | BW | 90 s |  |
+| Side plank | BW | 45 s/45 s | Per side |
+
+Plyos skipped: legs sore after 6 miles.
 
 **Saturday long run (10/17):** 12 miles planned. _pace / how legs felt / did Tuesday's lift affect it?_
 
