@@ -1,6 +1,6 @@
 ---
 marathon-hq: strength
-status: active
+status: done
 ---
 # Phase 0: Intro Week
 

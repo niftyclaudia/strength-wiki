@@ -4,9 +4,9 @@ Working weights and PRs by lift, across phases. Log the working weight you finis
 
 | Lift | Phase 0 start | Phase 1 end | Phase 2 end | Phase 3 end | Best set (date) |
 |---|---|---|---|---|---|
-| **Hip thrust 3x10 (primary metric)** | | | | | |
-| Back squat | | | | | |
-| Romanian deadlift | | | | | |
+| **Hip thrust 3x10 (primary metric)** | 155 | | | | |
+| Back squat | 85 | | | | |
+| Romanian deadlift | 85 | | | | |
 | Overhead press | | | | | |
 | Bent-over row | | | | | |
 | Floor press | | | | | |

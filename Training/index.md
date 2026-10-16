@@ -19,8 +19,8 @@ Phases follow the marathon block: lift the most when mileage is low, then taper 
 
 | Phase | Dates | Marathon block | Lift days/wk | Focus | Status |
 |---|---|---|---|---|---|
-| [[phases/phase-0]] | Sep 28 – Oct 4, 2026 | Pre-block | 3 | Intro week: learn the program, set starting weights | In progress |
-| phase-1 | Oct 5 – Nov 29, 2026 (8 wks) | Base | 2 | Build: hypertrophy + strength, highest lifting priority | Planned |
+| [[phases/phase-0]] | Sep 28 – Oct 4, 2026 | Pre-block | 3 | Intro week: learn the program, set starting weights | Done |
+| [[phases/phase-1]] | Oct 5 – Nov 29, 2026 (8 wks) | Base | 2 | Build: hypertrophy + strength, highest lifting priority | In progress |
 | phase-2 | Nov 30, 2026 – Jan 24, 2027 (8 wks) | Build | 2 | Strength: heavier, fewer reps, less volume | Planned |
 | phase-3 | Jan 25 – Mar 7, 2027 (6 wks) | Peak mileage | 2 (shorter) | Maintain: keep intensity, cut sets | Planned |
 | phase-4 | Mar 8 – Mar 21, 2027 (2 wks) | Taper + race | 1 → 0 | Stay sharp: light session(s), nothing heavy race week | Planned |
