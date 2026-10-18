@@ -48,7 +48,7 @@ Day cells take miles (`4` or `2–4`), `easy`, `rest`, `shakeout` or `race`. Add
 | 2026-10-19 | Easy · 5M; 5-min warm-up + cool-down | easy | 5 |  |  |
 | 2026-10-20 | 1/1 fartlek · 7M; coach details pending; 5-min warm-up + cool-down | workout | 7 | A (lower) |  |
 | 2026-10-21 | Easy · 3M; 5-min warm-up + cool-down | easy | 3 |  |  |
-| 2026-10-22 | Medium long · 7M; 5-min warm-up + cool-down | medium_long | 7 | B (upper) |  |
+| 2026-10-22 | Medium long · 7M; 5-min warm-up + cool-down | medium long | 7 | B (upper) |  |
 | 2026-10-23 | Rest | rest |  | none |  |
 | 2026-10-24 | Long run · 12M; 8-min warm-up + cool-down | long | 12 |  |  |
 | 2026-10-25 | Rest | rest |  | none |  |
