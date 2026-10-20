@@ -49,11 +49,11 @@ Warm-up (3 min): dead bug 1x6/side → band lateral walk 1x10 each way → bodyw
 | Pogo hops | 2 | 15 | BW | 30 s | Plyo block, before lifting. Quiet, springy landings |
 | Single-leg pogo hops | 2 | 10/leg | BW | 30 s | |
 | Squat jump | 2 | 5 | BW | 45 s | Land soft, reset each rep |
-| Barbell back squat | 3 | 8–10 | 85 lb (hold) | | A1. Oct 19–25: hold 85; 95 was too heavy Oct 13. Consider 90 only in a later session after all sets are controlled at ≤RPE 7 and running recovery is normal |
-| Single-leg calf raise | 3 | 10/leg | 5 lb (hold) | 90 s after pair | A2 |
-| Barbell Romanian deadlift | 2 | 8–10 | 85 lb (hold) | | B1. Oct 19–25: hold weight and the 2 sets actually completed Oct 13; do not raise weight and volume together |
+| Barbell back squat | 3 | 8–10 | 85 lb | | A1. Oct 26: 3 working sets at 85 (Oct 20 had only one). Short ramp: 45 x 8, 65 x 5. Move to 90 once all 3 sets reach 10 at RPE 7 |
+| Single-leg calf raise | 3 | 10/leg | 10 lb | 90 s after pair | A2. Up from 5 lb: 5 x 10 was slow and easy on Oct 20 |
+| Barbell Romanian deadlift | 2 | 8 | 95 lb | | B1. Oct 26: hold 95 x 8, 2 sets. Grip slipped Oct 20, so use straps, chalk or a mixed grip. No added weight until grip holds the whole set |
 | Push-up | 2 | 2–4 | BW | 75 s after pair | B2. Start at the bottom, push up fast, lower slowly. Add a rep when 3 x 2 feels easy |
-| Barbell hip thrust | 2 | 8–10 | 135 lb (hold) | | C1. Oct 19–25: 10 lb reduction under the soreness rule after sore legs on Oct 15; keep 2 working sets. One lighter ramp set first (95 if comfortable). Resume 3 sets before pursuing a 3x10 benchmark |
+| Barbell hip thrust | 3 | 8–10 | 135 lb | | C1. Oct 26: back to 3 working sets at 135 (2 x 10 on Oct 20). Ramp set 95 first. Add weight only after 3 x 10 |
 | Single-arm dumbbell row | 2 | 10/arm | 17.5 lb (hold) | 75 s after pair | C2 |
 
 *Short on time? Drop the RDL and push-up to 2 sets. Never cut the hip thrust.*
@@ -104,6 +104,23 @@ Based on the October 13 and 15 logs, not an automatic increase from reps alone. 
 | Plank / side plank | Bodyweight; current doses | No added external weight |
 
 **Marathon HQ:** this week’s session weights are marked `(hold)`, so the Lift tab uses these prescribed loads instead of adding 5 lb automatically. Keep these holds until the next recovery/effort review; completed reps alone do not trigger an increase.
+
+## Recommended weights — October 26 – November 1, 2026
+
+Plan week 4, an RPE 7 week. Based on the October 20 log. Saturday is 14 miles, the longest run so far, so Thursday stays upper-only. All barbell weights are total lb on a 45 lb bar; dumbbell weights are per hand.
+
+| Exercise | Next week | Reason |
+|---|---|---|
+| Back squat | 85 lb, 3 x 8–10 | Oct 20: one working set of 8 at 85, challenging in a good way. Build to 3 sets before adding weight |
+| Single-leg calf raise | 10 lb, 3 x 10/leg | 5 lb x 10 was slow and controlled; ready for more |
+| Romanian deadlift | 95 lb, 2 x 8, straps or chalk | Oct 20 went to 95 x 8 but grip slipped. Hold until grip lasts the set |
+| Hip thrust | 135 lb, 3 x 8–10 | 2 x 10 at 135 on Oct 20. Add the third set back before adding weight |
+| Single-arm dumbbell row | 17.5 lb, 2 x 8–10/arm | Stopped at 8 for clean reps; stay until 10 are clean |
+| Push-up | Bodyweight, 2–3 x 2–3 | 2 x 2 on Oct 20; add one rep per set when 2 feels easy |
+| Overhead press (Thu) | 35 lb, 3 x 8, if Oct 22 is 3 x 8 at 30 with reps to spare; else 30 | Decide from Thursday Oct 22 |
+| Bent-over row (Thu) | 40 lb (2.5 each side), 3 x 10, if Oct 22 is 3 x 10 clean; else 35 | Decide from Thursday Oct 22 |
+
+**Marathon HQ:** the Lift tab suggests from the last logged session and only uses the plan's Weight when it is higher. For the hip thrust it will suggest 140 (every rep hit at 135); use 135 for 3 sets as above. For the RDL it will suggest 95, which matches.
 
 ## Possible later progression — review November 2–9
 
