@@ -162,6 +162,19 @@ Plyos skipped: legs sore after 6 miles.
 
 **Saturday long run (10/17):** 12 miles planned. _pace / how legs felt / did Tuesday's lift affect it?_
 
+### Week 3 (Oct 19 – Oct 25)
+
+**Tue Oct 20 — Session A (lower)**
+
+| Exercise | Weight | Reps | Notes |
+|---|---|---|---|
+| Barbell back squat | 85 | 8 | Ramp: 45 x 8, 65 x 10, 75 x 10. Challenging in a good way; 10 was possible. Wants more sets at 85 next week |
+| Single-leg calf raise | 5 | 10 | Slow and controlled; ready to go heavier |
+| Barbell Romanian deadlift | 95 | 8 | Ramp: 65 x 8, 85 x 8. Grip slipping at the end of the 95 set, but finished |
+| Barbell hip thrust | 135 | 10/10 | Ramp set: 95 x 10 |
+| Single-arm dumbbell row | 17.5 | 8/8 per arm | Slow; reps 9–10 wouldn't have been clean |
+| Push-up | BW | 2/2 | Start at the bottom, fast up, slow down |
+
 ---
 
 ## Phase Summary
