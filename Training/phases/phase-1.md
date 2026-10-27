@@ -192,6 +192,17 @@ Plyos skipped: legs sore after 6 miles.
 | Single-arm dumbbell row | 17.5 | 8/8 per arm | Slow; reps 9–10 wouldn't have been clean |
 | Push-up | BW | 2/2 | Start at the bottom, fast up, slow down |
 
+**Sun Oct 25 — Session B (upper)**
+
+| Exercise | Weight | Reps | Notes |
+|---|---|---|---|
+| Pogo hops | BW | | |
+| Barbell overhead press | 45 | 8/8 | 2 sets |
+| Barbell bent-over row | 45 | 10/10/10 | |
+| Push-up | BW | 2/2/2 | |
+| Plank | BW | 90 s | |
+| Side plank | BW | 45 s/45 s | Per side |
+
 ---
 
 ## Phase Summary
