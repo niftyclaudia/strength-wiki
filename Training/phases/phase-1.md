@@ -1,8 +1,10 @@
 ---
 marathon-hq: strength
-status: active
+status: paused
 ---
 # Phase 1: Base
+
+> **Paused Nov 25, 2026.** No lifts logged since Oct 26, so Marathon HQ stops counting lift days until lifting starts again (in a few weeks). Set `status: active` here, or start the next phase note, to bring them back.
 
 **Dates:** October 5 – November 29, 2026 (plan weeks 1–8)
 **Goal:** Build: hypertrophy + strength while mileage is still low. This is the highest lifting priority of the block.
